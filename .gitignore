@@ -36,3 +36,12 @@ MarcacaoQuarto/nbproject/build-impl.xml
 MarcacaoQuarto/build/classes/marcacaoquarto/MarcacaoQuarto.class
 MarcacaoQuarto/build/classes/.netbeans_update_resources
 MarcacaoQuarto/build/classes/.netbeans_automatic_build
+CadastroHospede/nbproject/project.xml
+CadastroHospede/nbproject/project.properties
+CadastroHospede/nbproject/private/private.xml
+CadastroHospede/nbproject/private/private.properties
+CadastroHospede/nbproject/genfiles.properties
+CadastroHospede/nbproject/build-impl.xml
+CadastroHospede/build/classes/cadastrohospede/CadastroHospede.class
+CadastroHospede/build/classes/.netbeans_update_resources
+CadastroHospede/build/classes/.netbeans_automatic_build
